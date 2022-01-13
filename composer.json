@@ -1,0 +1,17 @@
+{
+    "name": "shojibflamon/dependency-injection-design-pattern",
+    "description": "Design Pattern - Dependency Injection",
+    "autoload": {
+        "psr-4": {
+            "Shojibflamon\\DependencyInjectionDesignPattern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jahidul Islam",
+            "email": "shojib.seu@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
